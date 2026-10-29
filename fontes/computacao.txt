@@ -1,0 +1,14 @@
+A CPU é o processador responsável por executar instruções e coordenar
+diversas operações de um computador.
+
+A GPU é um processador especializado em executar muitas operações
+em paralelo. Ela é muito utilizada em gráficos e aplicações de
+inteligência artificial.
+
+A CPU costuma ser adequada para tarefas variadas que dependem de
+controle e execução sequencial. A GPU é especialmente útil para
+cargas de trabalho que podem ser divididas em muitas operações
+simultâneas.
+
+CPU e GPU são componentes complementares. O melhor desempenho
+depende do tipo de tarefa executada.

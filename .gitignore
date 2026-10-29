@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Segredos e configurações locais
+.env
+.env.*
+!.env.example
+
+# Saídas geradas
+saida/*
+!saida/.gitkeep
+
+# Arquivos temporários
+*.log
+.DS_Store
